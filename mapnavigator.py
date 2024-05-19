@@ -1,7 +1,7 @@
 import pandas as pd
 import heapq
 
-
+#use dataset 7_detail_table_cust_cust_distances.xls
 class MetroMap:
     def __init__(self):
         self.graph = {}
